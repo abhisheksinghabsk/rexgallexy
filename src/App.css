@@ -1,0 +1,57 @@
+* {
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+/* .icons {
+    width: 100%;
+    height: 100vh;
+    margin-top: -200px;
+    display: flex;
+    justify-content: flex-end;
+} */
+
+
+/* .row {
+    background-color: #5853ff;
+    border-radius: 200px 0 0 200px;
+    width: 70%;
+    height: 60vh;
+    margin-top: 200px;
+    padding: 2rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+} */
+
+
+
+.Offer-row {
+    background-image: url('../public/Image/Call-to-action_img.jpeg');
+    height: 300px;
+    display: flex;
+    align-items: center;
+   text-align: center;
+}
+
+.Offer-row:first-child {
+    color: white;
+    
+}
+
+.Offer-row Button {
+    color: white;
+    width: 200px;
+    height: 75px;
+    background-color: chocolate;
+    border-radius: 50px;
+    
+}
+
+
+
+.Home-frist-h1 {
+    text-align: center;
+}
